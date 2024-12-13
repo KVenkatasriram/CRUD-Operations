@@ -33,3 +33,5 @@ In this case the value used are an example and fetch the data to a localhost Dja
 - [ ] Add a way to setting up the form validation more easily
 - [ ] Add visual feedbacks when editing/adding/deleting data  
 - [ ] Improve app navigation and layout
+
+##### My LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-venkatasriram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venkatasriram/)](https://www.linkedin.com/in/venkatasriram/)
